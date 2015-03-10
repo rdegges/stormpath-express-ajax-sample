@@ -1,0 +1,28 @@
+{
+  "name": "stormpath-express-ajax-sample",
+  "version": "0.0.1",
+  "description": "Express app with custom AJAX views",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdegges/stormpath-express-ajax-sample.git"
+  },
+  "keywords": [
+    "stormpath"
+  ],
+  "author": "Randall Degges <r@rdegges.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdegges/stormpath-express-ajax-sample/issues"
+  },
+  "homepage": "https://github.com/rdegges/stormpath-express-ajax-sample",
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.12.2",
+    "express-stormpath": "^0.6.9",
+    "jade": "^1.9.2"
+  }
+}
