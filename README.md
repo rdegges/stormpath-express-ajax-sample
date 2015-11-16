@@ -1,5 +1,9 @@
 # Stormpath Express AJAX Sample
 
+**NOTE**: This example is NO LONGER VALID. Since this was built, the Stormpath
+Express.js library has significantly changed. Please only use this project as a
+reference for historical purposes.
+
 A StormPath/Express app with custom registration routes (disabling the built-in stuff).
 
  - A POST /register route which takes in the user data, and creates an account.
